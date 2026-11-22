@@ -4,7 +4,7 @@
 
 ### B.Tech in Chemical Engineering · IIT (BHU) Varanasi
 
-**Machine Learning · Generative AI and LLM Agents · Recommender Systems · Computer Vision · Information Retrieval**
+**Machine Learning · Generative AI and LLM Agents · Recommender Systems · NLP · Information Retrieval**
 
 </div>
 
